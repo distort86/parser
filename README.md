@@ -1,4 +1,4 @@
-### Reclada CSV paring
+### Reclada CSV parsing
 
 Parser step to etable from csv or tsv format
 
